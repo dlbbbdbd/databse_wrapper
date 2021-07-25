@@ -237,4 +237,3 @@ namespace db {
 
 
 #endif //SQLITE_WRAPPER_DATA_H
->>>>>>> ab131da38d7e28037f056ce428841570e5671a27
